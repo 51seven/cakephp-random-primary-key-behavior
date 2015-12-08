@@ -27,7 +27,8 @@ $config = [
       'end' => 9999999
     ]
 ];
+```
 
 you can pass the `$config` array as second parameter:
 `$this->addBehavior('RandomPrimaryKey', $config`
-```
+
