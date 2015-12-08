@@ -4,6 +4,8 @@ This Cakephp behavior automaticly creates a random digit primary key for your Mo
 ## install
 Just copy the file into your Behavior folder (`src/Model/Behavior`)
 
+Installation via Composer: Coming soon!
+
 ## how to use
 Simly pase the following Code in your Table `initialize` Method:
 ```
