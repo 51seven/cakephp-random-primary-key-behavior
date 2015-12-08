@@ -1,5 +1,6 @@
 # cakephp-random-primary-key-behavior
 This Cakephp behavior automaticly creates a random digit primary key for your Model.
+In case of a duplicate id, the auto-increment fallback is going to increment the last generated number as usual.
 
 ## install
 Just copy the file into your Behavior folder (`src/Model/Behavior`)
